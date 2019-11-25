@@ -1,0 +1,10 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('http://pm1.narvii.com/6250/54d881d97af2cd352e1f5d0e92453a8b728fe0d1_00.jpg');
+  color:#125587;
+  font-style:oblique;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
